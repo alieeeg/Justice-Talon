@@ -1,0 +1,13 @@
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Template.exe.config
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.csprojResolveAssemblyReference.cache
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Template.exe
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Template.pdb
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.SDK.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.pdb
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.exe
+C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.pdb
