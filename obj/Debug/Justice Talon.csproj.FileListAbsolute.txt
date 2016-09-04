@@ -14,3 +14,6 @@ C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Templat
 C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Debug\Mario`s Template.exe.config
 C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Debug\Mario`s Template.exe
 C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Debug\Mario`s Template.pdb
+C:\Users\aLi\Desktop\Justice Talon\Justice Talon\bin\Debug\Mario`s Template.exe.config
+C:\Users\aLi\Desktop\Justice Talon\Justice Talon\obj\Debug\Mario`s Template.exe
+C:\Users\aLi\Desktop\Justice Talon\Justice Talon\obj\Debug\Mario`s Template.pdb

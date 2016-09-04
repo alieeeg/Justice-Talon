@@ -33,29 +33,30 @@ namespace Mario_s_Template
         private static void Obj_AI_Base_OnSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
         {
             var orbMode = Orbwalker.ActiveModesFlags;
+            var checktitan = new Item(ItemId.Titanic_Hydra);
             if (sender.IsMe && args.SData.Name == "TalonNoxianDiplomacyAttack")
             {
-                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (orbMode.HasFlag(Orbwalker.ActiveModes.Combo)))
+                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (checktitan.IsReady()) && (orbMode.HasFlag(Orbwalker.ActiveModes.Combo)))
                 {
                     Player.Instance.InventoryItems.First(x => x.Id == ItemId.Titanic_Hydra).Cast();
                     Orbwalker.ResetAutoAttack();
                 }
-                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (orbMode.HasFlag(Orbwalker.ActiveModes.LaneClear)))
+                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (checktitan.IsReady()) && (orbMode.HasFlag(Orbwalker.ActiveModes.LaneClear)))
                 {
                     Player.Instance.InventoryItems.First(x => x.Id == ItemId.Titanic_Hydra).Cast();
                     Orbwalker.ResetAutoAttack();
                 }
-                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (orbMode.HasFlag(Orbwalker.ActiveModes.LastHit)))
+                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (checktitan.IsReady()) && (orbMode.HasFlag(Orbwalker.ActiveModes.LastHit)))
                 {
                     Player.Instance.InventoryItems.First(x => x.Id == ItemId.Titanic_Hydra).Cast();
                     Orbwalker.ResetAutoAttack();
                 }
-                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (orbMode.HasFlag(Orbwalker.ActiveModes.Harass)))
+                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (checktitan.IsReady()) && (orbMode.HasFlag(Orbwalker.ActiveModes.Harass)))
                 {
                     Player.Instance.InventoryItems.First(x => x.Id == ItemId.Titanic_Hydra).Cast();
                     Orbwalker.ResetAutoAttack();
                 }
-                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (orbMode.HasFlag(Orbwalker.ActiveModes.JungleClear)))
+                if (Player.Instance.HasItem(ItemId.Titanic_Hydra) && (checktitan.IsReady()) && (orbMode.HasFlag(Orbwalker.ActiveModes.JungleClear)))
                 {
                     Player.Instance.InventoryItems.First(x => x.Id == ItemId.Titanic_Hydra).Cast();
                     Orbwalker.ResetAutoAttack();
