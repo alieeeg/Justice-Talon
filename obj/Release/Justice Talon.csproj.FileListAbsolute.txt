@@ -10,3 +10,15 @@ C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Release\Newtonsoft.Js
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Release\Justice Talon.csprojResolveAssemblyReference.cache
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Release\Mario`s Template.exe
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Release\Mario`s Template.pdb
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\Mario`s Template.exe.config
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\Mario`s Template.exe
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\Mario`s Template.pdb
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\EloBuddy.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\EloBuddy.SDK.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\Mario`s Lib.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\SharpDX.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Release\Newtonsoft.Json.dll
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Release\Justice Talon.csprojResolveAssemblyReference.cache
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Release\Mario`s Template.exe
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Release\Mario`s Template.pdb

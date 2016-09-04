@@ -11,3 +11,6 @@ C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.pdb
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Justice Talon.csprojResolveAssemblyReference.cache
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.exe
 C:\Users\aLi\Desktop\Mario`s Template\Mario`s Template\obj\Debug\Mario`s Template.pdb
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\bin\Debug\Mario`s Template.exe.config
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Debug\Mario`s Template.exe
+C:\Users\aLi\Desktop\Justice Talon - Kopya\Justice Talon\obj\Debug\Mario`s Template.pdb
