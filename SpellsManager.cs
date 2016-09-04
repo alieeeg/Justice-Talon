@@ -68,28 +68,28 @@ namespace Mario_s_Template
                     if (Q.IsReady())
                     {
                         //Information of Q damage
-                        dmg += new float[] {15, 40, 65, 90, 115}[sLevel] + new [] { 0.6f, 0.65f, 0.7f, 0.75f, 0.8f }[sLevel] * AD;
+                        dmg += new float[] {30, 60, 90, 120, 150}[sLevel] + 0.3f * AD;
                     }
                     break;
                 case SpellSlot.W:
                     if (W.IsReady())
                     {
                         //Information of W damage
-                        dmg += new float[] {0, 0, 0, 0, 0}[sLevel] + 1f*AD;
+                        dmg += new float[] {60, 110, 160, 210, 270}[sLevel] + 0.6f * AD;
                     }
                     break;
                 case SpellSlot.E:
                     if (E.IsReady())
                     {
                         //Information of E damage
-                        dmg += new float[] {0, 0, 0, 0, 0}[sLevel];
+                        dmg += new float[] {3, 6, 9, 12, 15}[sLevel];
                     }
                     break;
                 case SpellSlot.R:
                     if (R.IsReady())
                     {
                         //Information of R damage
-                        dmg += new float[] {20, 60, 95, 130 ,165}[sLevel]+ 0.45f*AP;
+                        dmg += new float[] {240, 340, 440}[sLevel] + 0.9f * AD;
                     }
                     break;
             }
