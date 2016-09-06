@@ -28,7 +28,6 @@ namespace Mario_s_Template.Modes
                     {
                         E.TryToCast(dusman, ComboMenu);
                         W.TryToCast(dusman, ComboMenu);
-                        Extensions.Tiamath();
                     }
                     if (E.IsOnCooldown && W.IsOnCooldown)
                     {
@@ -50,13 +49,31 @@ namespace Mario_s_Template.Modes
                 {
                     E.TryToCast(dusman2, ComboMenu);
                     W.TryToCast(dusman2, ComboMenu);
-                    Extensions.Tiamath();
                 }
                 if (E.IsOnCooldown && W.IsOnCooldown && Q.IsOnCooldown && !titanic.IsReady() && !Player.HasBuff("TalonDisappear") && !Player.HasBuff("ItemTitanicHydraCleaveBuff"))
                 {
                     R.TryToCast(Player.Instance, ComboMenu);
                 }
             }
+            }
+            //FASTER COMBO
+            if(ComboMenu["selectCOMBO"].Cast<ComboBox>().CurrentValue == 2)
+            {
+                var dusman3 = TargetSelector.GetTarget(E.Range,DamageType.Physical);
+                if (dusman3 != null)
+                {
+                    Extensions.Youmu();
+                    E.TryToCast(dusman3,ComboMenu);
+                    if (Q.IsOnCooldown)
+                    {
+                        W.TryToCast(dusman3,ComboMenu);
+                        if (W.IsOnCooldown)
+                        {
+                            R.TryToCast(Player.Instance,ComboMenu);
+                            Extensions.DoubleItem();
+                        }
+                    }
+                }
             }
         }
     }

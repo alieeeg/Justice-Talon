@@ -59,7 +59,7 @@ namespace Mario_s_Template
             ComboMenu.CreateCheckBox(" - Use W", "wUse");
             ComboMenu.CreateCheckBox(" - Use E", "eUse");
             ComboMenu.CreateCheckBox(" - Use R", "rUse");
-            ComboMenu.CreateComboBox("Select Combo", "selectCOMBO", new List<string> { "ALL-IN", "IN-OUT" });
+            ComboMenu.CreateComboBox("Select Combo", "selectCOMBO", new List<string> { "ALL-IN", "IN-OUT","FASTER" });
 
             HarassMenu.AddGroupLabel("Spells");
             HarassMenu.CreateCheckBox(" - Use Q", "qUse");
